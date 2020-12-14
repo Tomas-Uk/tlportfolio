@@ -1,0 +1,59 @@
+
+.carousel{
+    position: relative;
+    width: 320px;
+    margin: 200px auto;
+    perspective: 5000px;
+    justify-items: center;
+    bottom: 90px;
+}
+
+
+
+.img-area{
+  /*  position: absolute;
+    width: 100%;
+    height: auto;*/
+
+    transform-style: preserve-3d;
+    transform: rotateY(-360deg) translateZ(-300px);
+    animation: animate 40s steps(10000,end) infinite;
+
+}
+.single-img{
+    position: absolute;
+    contain: content;
+    top: -90px;
+    /*left: 10px;*/
+    width: 300px;
+    height: 200px;
+}
+.single-img img{
+    width: 150px;
+    height: 150px;
+    border: 5px solid darkgray;
+}
+.single-img.img-one{
+    transform: rotateY(0deg) translateZ(300px);
+}
+.single-img.img-two{
+    transform: rotateY(72deg) translateZ(300px);
+}
+.single-img.img-three{
+    transform: rotateY(144deg) translateZ(300px);
+}
+.single-img.img-four{
+    transform: rotateY(216deg) translateZ(300px);
+}
+.single-img.img-five{
+    transform: rotateY(288deg) translateZ(300px);
+}
+
+@keyframes animate {
+    from{
+        transform: rotateY(-360deg);
+    }
+    to{
+        transform: rotateY(0deg);
+    }
+}

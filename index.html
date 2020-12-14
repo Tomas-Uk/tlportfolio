@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Portfolio</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/webCss.css">
+    <link rel="stylesheet" href="css/carousel.css">
+    <script src="https://kit.fontawesome.com/b1ad3f6a05.js" crossorigin="anonymous"></script>
+    <script src="jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+</head>
+<body style="background-color: lightcyan">
+<!--NAVIGATION-->
+    <nav id="home" class="zone green" >
+        <ul class="main-nav">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li class="push"><a href="#contact-me">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="container cover">
+        <h1>Tomas Lukosevicius<br/>Junior Web Developer</h1>
+    </div>
+    <div class="green-extra" style="padding: 35px; height: 100%;"></div>
+
+<!--ABOUT-->
+<section id="about">
+    <h1 style="text-align: center;">Little about me</h1>
+    <p style="padding: 20px;font-size: larger;font-family: cursive;">I have always wanted to become Web Developer and last year I have decided to pursue my dream and I have started Web Development Course.
+        I am passionate about creating new things, solving problems, that's why I love web development, where I can make best of my skills.
+        I believe Web Development career path is perfect for me as it is never ending creation, continues learning, and self expression.
+        On my free time I love active travelling: mountain trekking, snorkeling
+        I hope to get diving licence in the future. I am interested in nature and wild life and my perfect weekends include day at zoo.
+    </p>
+    <h1 style="text-align: center;">What I'm interest to and studying <br><i class="far fa-hand-point-down"></i></h1>
+</section>
+
+
+<!-- CAROUSEL-->
+<section>
+    <div class="carousel">
+        <div class="img-area">
+            <div class="single-img img-one">
+                <img src="img/html5.png" alt=""/>
+            </div>
+            <div class="single-img img-two">
+                <img src="img/dotNET.png" alt=""/>
+            </div>
+            <div class="single-img img-three">
+                <img src="img/css.png" alt=""/>
+            </div>
+            <div class="single-img img-four">
+                <img src="img/cSharp.png" alt=""/>
+            </div>
+            <div class="single-img img-five">
+                <img src="img/js.png" alt=""/>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- PROJECTS-->
+<h2 id="projects">Projects / Practices</h2>
+    <div class="grid-wrapper zone green">
+        <div class="box zone"><img src="img/cSharp.png"/></div>
+        <div class="box zone"><img src="img/css.png"/></div>
+        <div class="box zone"><img src="img/dotNET.png"/></div>
+        <div class="box zone"><img src="img/html5.png"/></div>
+        <div class="box zone"><img src="img/js.png"/></div>
+    </div>
+
+
+<!--CONTACT-->
+    <h1 id="contact-me" style="text-align: center;">Get in touch</h1>
+    <section class="contact-section green-extra">
+        <div class="contact-container green-extra">
+            <form action="https://formspree.io/f/mdopdywq" id="form" method="post">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text"id="name" name="name">
+                </div>
+                <div class="form-group">
+                    <label for="company">Company</label>
+                    <input type="text" id="company" name="company">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input typeof="email" id="email" name="email">
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" cols="30" rows="10"></textarea>
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="green-extra connect" style="width: 100%">
+            <h2 style="text-align: center; color: white">Connect</h2>
+            <button type="button" style="height: 50px; width: 100px; margin-left: 100px;">
+                <a href="http://www.google.com">
+                <i class="fab fa-linkedin-in fa-3x" ></i>
+                </a>
+            </button>
+            <button type="button" style="height: 50px; width: 100px; float: right;margin-right: 100px; ">
+                <a href="http://www.google.com">
+                    <i class="fab fa-github-alt fa-3x"></i>
+                </a>
+            </button>
+        </div>
+        <div class="contact-container box1 green-extra">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9935.27167445957!2d-0.3154196220200082!3d51.498208756782425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x75e5f13900c37abe!2sSouth%20Ealing!5e0!3m2!1sen!2suk!4v1605796019163!5m2!1sen!2suk" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+    </section>
+    <div id="status"></div>
+
+    <a href="#home" id="back-to-top"></a>
+
+<footer>Tomas Lukosevicius @2020</footer>
+
+
+    <script src="js/webJS.js"></script>
+</body>
+</html>
+
+
+
+<!--<div id="background">
+ <h1>Gradient generator</h1>
+ <input class="color1" type="color" name="color1" value="#00ff00">
+ <input class="color2" type="color" name="color2" value="#ff0000">
+ <h2>Current  Background</h2>
+ <h3>Gradient generator</h3>
+</div>-->

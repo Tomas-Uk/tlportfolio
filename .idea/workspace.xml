@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e20300-7b38-43c3-952a-5e3bb4f6142b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jvAv6lx1znx3obZQ5PSUYWsY0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStorm PROJECTS\CoolBackground\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:60213/CoolBackground/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e20300-7b38-43c3-952a-5e3bb4f6142b" name="Default Changelist" comment="" />
+      <created>1604674418960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604674418960</updated>
+      <workItem from="1604674420088" duration="4740000" />
+      <workItem from="1604912992470" duration="12525000" />
+      <workItem from="1605000980387" duration="28451000" />
+      <workItem from="1605171806188" duration="12789000" />
+      <workItem from="1605263524050" duration="4188000" />
+      <workItem from="1605285596196" duration="6367000" />
+      <workItem from="1605519712128" duration="5708000" />
+      <workItem from="1605547916254" duration="404000" />
+      <workItem from="1605606241557" duration="7118000" />
+      <workItem from="1605618273188" duration="13680000" />
+      <workItem from="1605691704562" duration="25179000" />
+      <workItem from="1605777499072" duration="17153000" />
+      <workItem from="1605802096258" duration="2980000" />
+      <workItem from="1606070809787" duration="71000" />
+      <workItem from="1607436520550" duration="20900000" />
+      <workItem from="1607520086420" duration="18912000" />
+      <workItem from="1607597497236" duration="11892000" />
+      <workItem from="1607615603541" duration="2811000" />
+      <workItem from="1607679459049" duration="21519000" />
+      <workItem from="1607705737569" duration="3340000" />
+      <workItem from="1607777013547" duration="11214000" />
+      <workItem from="1607942355585" duration="5246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1607515665202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607515665202" />
+    <state x="673" y="169" key="SettingsEditor" timestamp="1607512866889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="169" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607512866889" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607687901369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607687901369" />
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup" timestamp="1607703648564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607703648564" />
+  </component>
+</project>
