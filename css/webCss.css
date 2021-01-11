@@ -34,8 +34,16 @@ body h2{
     color: white;
     text-decoration: none;
 }
+.main-nav a: hover{
+    color: white;
+    text-decoration: none;
+}
+
 .push{
     margin-left: auto;
+}
+.main-nav a:hover{
+    color: darkorange;
 }
 
 /*COVER*/
