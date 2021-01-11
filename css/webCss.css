@@ -198,16 +198,12 @@ iframe{
 .box > img {
     width: 100%;
     height: 70%;
-}
 
-#links li{
-    list-style-type: none;
 
 }
 #links a{
     color: white;
     display: flex;
-    text-decoration: none;
 }
 #links a:hover{
     color: darkorange;
@@ -257,7 +253,6 @@ a:hover#back-to-top{
     grid-gap: 20px;
     grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
 }
-
 /*COLORING*/
 .green{
     background: #00047a; /* Old browsers */
@@ -320,8 +315,6 @@ a:hover#back-to-top{
     background: linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6e6b4', endColorstr='#ed9017',GradientType=0 ); /* IE6-9 */
 }
-
-
 .slider{
 
     background-image: url("../img/Images/Add.JPG");

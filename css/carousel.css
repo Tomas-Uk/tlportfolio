@@ -46,7 +46,10 @@
     transform: rotateY(216deg) translateZ(300px);
 }
 .single-img.img-five{
-    transform: rotateY(288deg) translateZ(300px);
+     transform: rotateY(288deg) translateZ(300px);
+ }
+.single-img.img-six{
+    transform: rotateY(360deg) translateZ(300px);
 }
 
 @keyframes animate {
