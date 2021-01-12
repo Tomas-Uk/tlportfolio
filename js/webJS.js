@@ -1,23 +1,27 @@
-/*
-var css = document.querySelector("h3");
-var color1 = document.querySelector(".color1");
-var color2 = document.querySelector(".color2");
-var body = document.getElementById("background");
+//REDIRECT
+$(document).ready(function() {
+    $('.images-redirect').on('click', function() {
+        window.location = "http://dot2020net-001-site1.ctempurl.com/";
+    });
+});
+$(document).ready(function() {
+    $('.todo-redirect').on('click', function() {
+        window.location = "http://dot2020net-001-site2.ctempurl.com/";
+    });
+});
+$(document).ready(function() {
+    $('.blazor-redirect').on('click', function() {
+        window.location = "http://dot2020net-001-site3.ctempurl.com/";
+    });
+});
+$(document).ready(function() {
+    $('.razor-redirect').on('click', function() {
+        window.location = "http://dot2020net-001-site4.ctempurl.com/";
+    });
+});
 
-function setGradient(){
-    body.style.background =
-        "linear-gradient(to right,"
-        + color1.value
-        + ", "
-        + color2.value
-        +")";
 
-    css.textContent = body.style.background + ";";
-}
 
-color1.addEventListener("input",setGradient)
-color2.addEventListener("input", setGradient)
-*/
 
 
 
